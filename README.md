@@ -1,11 +1,11 @@
-# 📦 java-shipment-exercise
+# java-shipment-exercise
 
 แบบฝึกหัด Java OOP — ระบบคำนวณค่าขนส่ง Shipment  
 วิชา Object-Oriented Programming | ปีการศึกษา 2569
 
 ---
 
-## 📋 คำอธิบายโจทย์
+## คำอธิบายโจทย์
 
 บริษัทขนส่งแห่งหนึ่งมีรายการ **Shipment** หลายรายการ  
 ให้เขียนโปรแกรม Java คำนวณค่าขนส่งตามน้ำหนักและประเภท แล้วแสดงยอดรวม
